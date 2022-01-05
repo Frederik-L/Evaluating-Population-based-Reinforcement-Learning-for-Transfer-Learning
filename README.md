@@ -56,7 +56,7 @@ trainer.population_trainer_transfer()
 - PPO model has a chance to return ```NaN``` crashing the trainer
 
 ## List of publications:
-- [Evaluating Population based Reinforcement Learning for Transfer Learning](https://github.com/Frederik-L/evaluating-population-based-reinforcement-learning-for-transfer-learning/publications/Evaluating_Population_Based_Reinforcement_Learning_for_Transfer_Learning.pdf) (2021)
+- [Evaluating Population based Reinforcement Learning for Transfer Learning](https://github.com/Frederik-L/evaluating-population-based-reinforcement-learning-for-transfer-learning/blob/main/publications/Evaluating_Population_Based_Reinforcement_Learning_for_Transfer_Learning.pdf) (2021)
 
 Please use this bibtex if you want to cite this repository in your publications:
 ```
